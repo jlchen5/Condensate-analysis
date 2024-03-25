@@ -63,6 +63,7 @@ plt.axis('off')
 plt.show()
 
 ~~~
+![image](https://github.com/jlchen5/Condensate-analysis/blob/main/pics/urea-0.1M-120min%20copy.png)
 
 ## Contributing
 Feel free to fork this project and submit a pull request if you have suggestions for improvements or new features.
@@ -70,4 +71,4 @@ Feel free to fork this project and submit a pull request if you have suggestions
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-[https://github.com/jlchen5/Condensate-analysis/blob/main/pics/urea-0.1M-120min%20copy.png](https://github.com/jlchen5/Condensate-analysis/blob/main/pics/urea-0.1M-120min%20copy.png?raw=true)
+
