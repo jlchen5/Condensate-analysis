@@ -5,7 +5,7 @@ This project utilizes Python and OpenCV to detect circular objects within an ima
 ## Prerequisites
 Before running this project, ensure you have the following installed:
 ~~~
-Python 3.x
+Python 3.1
 OpenCV (cv2)
 NumPy
 Pillow (PIL)
@@ -69,6 +69,6 @@ plt.show()
 Feel free to fork this project and submit a pull request if you have suggestions for improvements or new features.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jlchen5/Condensate-analysis/blob/main/LICENSE) file for details.
 
 
